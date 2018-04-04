@@ -1,0 +1,6 @@
+
+5 5
+1 2 e
+agagaagad
+1 3 n
+aaagggddda
